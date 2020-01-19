@@ -1,5 +1,5 @@
-use assignment7_q2::shop::shopkeeper;
+use assignment7_q2::hospital::doctor;
 
 fn main() {
-    shopkeeper::greet_customer();
+    doctor::give_medicine();
 }
