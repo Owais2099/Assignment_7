@@ -1,5 +1,5 @@
-use my_library::shop::shopkeeper;
+use my_library::school::teacher;
 
 fn main() {
-    shopkeeper::greet_customer();
+    teacher::take_quiz();
 }
