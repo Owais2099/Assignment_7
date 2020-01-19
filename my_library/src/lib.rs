@@ -1,7 +1,7 @@
-pub mod shop {
-    pub mod shopkeeper {
-        pub fn greet_customer() {
-            println!("Welcome to my shop!");
+pub mod school {
+    pub mod teacher {
+        pub fn take_quiz() {
+            println!("Topics of today's quiz are...");
         }
     }
 }
